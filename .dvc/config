@@ -1,5 +1,7 @@
 [core]
     remote = remote_storage
+[cache]
+    dir = /home/ubuntu/shared_cache
 ['remote "remote_storage"']
     url = /home/ubuntu/dvc_remote
 ['remote "drive_remote"']
